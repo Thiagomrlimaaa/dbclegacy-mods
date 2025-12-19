@@ -3,173 +3,172 @@
   "description": "Mods DBC Legacy 1.7.10 - Baixados automaticamente pelo launcher",
   "mods": [
     {
-      "name": "dbclegecy.jar",
-      "path": "mods/dbclegecy.jar",
+      "name": "+unimixins-all-1.7.10-0.1.23.jar",
+      "path": "mods/+unimixins-all-1.7.10-0.1.23.jar",
       "required": true,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "dbclegacy.jar",
-      "path": "mods/dbclegacy.jar",
-      "required": true,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "DragonBlockC-v1.4.85.jar",
-      "path": "mods/DragonBlockC-v1.4.85.jar",
-      "required": true,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "DBCAdditions-1.74.jar",
-      "path": "mods/DBCAdditions-1.74.jar",
-      "required": true,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "JRMCore-v1.3.51.jar",
-      "path": "mods/JRMCore-v1.3.51.jar",
-      "required": true,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "53b1721a9fef8e3351ece7c6b1b9598ed5290f67b1d00f312244ef603845425e"
     },
     {
       "name": "CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
       "path": "mods/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
       "required": true,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "98b33b39c05e83fe76d7bfedda76db686acccd53c0e996c11da75838b15a1399"
     },
     {
       "name": "CodeChickenLib-1.7.10-1.1.3.141-universal.jar",
       "path": "mods/CodeChickenLib-1.7.10-1.1.3.141-universal.jar",
       "required": true,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "49131e1960b8a968bdaf7806e595a73a9e96f7db1c128aaeb7b25a6a13c2788c"
     },
     {
-      "name": "OptiFine_1.7.10_HD_U_E7.jar",
-      "path": "mods/OptiFine_1.7.10_HD_U_E7.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
+      "name": "DBCAdditions-1.74.jar",
+      "path": "mods/DBCAdditions-1.74.jar",
+      "required": true,
+      "sha256": "7efb01a38295569a5dd0cfbb7d568a66356ec3e0e7c2948e8e199c9f94741ca7"
     },
     {
-      "name": "CustomNPC-Plus-1.10.2.jar",
-      "path": "mods/CustomNPC-Plus-1.10.2.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
+      "name": "dbclegacy.jar",
+      "path": "mods/dbclegacy.jar",
+      "required": true,
+      "sha256": "f4feec632eaad21b365c7a5a693b0e5792da9b5c93df5586f13784c1e500f069"
     },
     {
-      "name": "Armourers-Workshop-1.7.10-0.48.5.jar",
-      "path": "mods/Armourers-Workshop-1.7.10-0.48.5.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
+      "name": "dbclegecy.jar",
+      "path": "mods/dbclegecy.jar",
+      "required": true,
+      "sha256": "090f1e58cc9e060096b3c27c9e69965ccb752c9adc47854b2fd9a84611451d36"
     },
     {
-      "name": "NBArmors-3.1.jar",
-      "path": "mods/NBArmors-3.1.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
+      "name": "DragonBlockC-v1.4.85.jar",
+      "path": "mods/DragonBlockC-v1.4.85.jar",
+      "required": true,
+      "sha256": "be8c849ab107b1126018bc5b0d0d254d751129f70f3349261f1469f0c220dc9d"
     },
     {
       "name": "geckolib3-v3.0.0.jar",
       "path": "mods/geckolib3-v3.0.0.jar",
       "required": true,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "231dea404fceb29b5355fc8f531cb7900aa11f75720f5a11ce66933835925ea3"
     },
     {
       "name": "gkmodlib.jar-of.jar",
       "path": "mods/gkmodlib.jar-of.jar",
       "required": true,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "81e2f91b9527dccfec248930857f917b1b22e7ede3ff9a5830006f8216399b00"
+    },
+    {
+      "name": "JRMCore-v1.3.51.jar",
+      "path": "mods/JRMCore-v1.3.51.jar",
+      "required": true,
+      "sha256": "0614265d665b6e60456d460255c1488377cad1200ad6bd9444128d835fc28946"
     },
     {
       "name": "PluginMod-5.3.jar",
       "path": "mods/PluginMod-5.3.jar",
       "required": true,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "Waila-1.5.10_1.7.10.jar",
-      "path": "mods/Waila-1.5.10_1.7.10.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "c24da4323ddef7bcdf1f2093e82a131cf2e87dfc4b29aeda7c9f5d7ac87e567a"
     },
     {
       "name": "[1.7.10]bspkrsCore-universal-6.16.jar",
       "path": "mods/[1.7.10]bspkrsCore-universal-6.16.jar",
       "required": false,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "c023c00cd531887b45c8d2650559159510a192fc0f016f769b1cc492d8c47810"
     },
     {
-      "name": "+unimixins-all-1.7.10-0.1.23.jar",
-      "path": "mods/+unimixins-all-1.7.10-0.1.23.jar",
-      "required": true,
-      "sha256": "CALCULAR_HASH"
+      "name": "Armourers-Workshop-1.7.10-0.48.5.jar",
+      "path": "mods/Armourers-Workshop-1.7.10-0.48.5.jar",
+      "required": false,
+      "sha256": "d87c67ec7ac7adf910176e2b927ce572a79602b4bc25d46bcbe88744d670f0fc"
+    },
+    {
+      "name": "CustomNPC-Plus-1.10.2.jar",
+      "path": "mods/CustomNPC-Plus-1.10.2.jar",
+      "required": false,
+      "sha256": "9e7a1eb0a3d893c902688879a6c19e824c47744ecfaea04e7a9287f5e7fd72b8"
     },
     {
       "name": "entityculling-1.6.4-mc1.7.10.jar",
       "path": "mods/entityculling-1.6.4-mc1.7.10.jar",
       "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "npcdbc-1.1.3.jar",
-      "path": "mods/npcdbc-1.1.3.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "ninjinentities-Unofficial-1.4.4.1.jar",
-      "path": "mods/ninjinentities-Unofficial-1.4.4.1.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "ninjinkb-1.2.4.1.jar",
-      "path": "mods/ninjinkb-1.2.4.1.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "JBRA-Client-v1.6.52.jar",
-      "path": "mods/JBRA-Client-v1.6.52.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "JFamilyC-v1.2.18.jar",
-      "path": "mods/JFamilyC-v1.2.18.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "JYearsC-v1.2.5.jar",
-      "path": "mods/JYearsC-v1.2.5.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "tlskincape1.7.10-1.4.jar",
-      "path": "mods/tlskincape1.7.10-1.4.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
-    },
-    {
-      "name": "JinRyuus-HDSkins-Mod-1.7.10-v1.3.1.jar",
-      "path": "mods/JinRyuus-HDSkins-Mod-1.7.10-v1.3.1.jar",
-      "required": false,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "dd1b15c1abfe3756051987c17924810a4e433a26c29b5defdeccedced15567e7"
     },
     {
       "name": "hpviewermod.jar-of.jar",
       "path": "mods/hpviewermod.jar-of.jar",
       "required": false,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "41bad6cdef60c706f269aa128a43959733ccac354986f78eab0f9cae9e0ba8a7"
+    },
+    {
+      "name": "JBRA-Client-v1.6.52.jar",
+      "path": "mods/JBRA-Client-v1.6.52.jar",
+      "required": false,
+      "sha256": "541bc7a8063879e897a27acc3a5850b02a15f8e23ee086cb8d03a36a76e23634"
+    },
+    {
+      "name": "JFamilyC-v1.2.18.jar",
+      "path": "mods/JFamilyC-v1.2.18.jar",
+      "required": false,
+      "sha256": "98e396b3a144c729d42d92c42eeadbcc5e1e97779f0a5ad4367a1f417cefea95"
+    },
+    {
+      "name": "JinRyuus-HDSkins-Mod-1.7.10-v1.3.1.jar",
+      "path": "mods/JinRyuus-HDSkins-Mod-1.7.10-v1.3.1.jar",
+      "required": false,
+      "sha256": "039732f2da81c79cff28dc094b4c15fac75ac3852f8ac2715e684bcb52d76f03"
+    },
+    {
+      "name": "JYearsC-v1.2.5.jar",
+      "path": "mods/JYearsC-v1.2.5.jar",
+      "required": false,
+      "sha256": "793ed8db158d945d387768d2cff8583e2651f70fe03f2931b6d3d63865185bf4"
     },
     {
       "name": "nashorn (1).jar",
       "path": "mods/nashorn (1).jar",
       "required": false,
-      "sha256": "CALCULAR_HASH"
+      "sha256": "421641100682d40f4aed3230cf2184fc5a315388a2dcc2cb19820683bc22e51b"
+    },
+    {
+      "name": "NBArmors-3.1.jar",
+      "path": "mods/NBArmors-3.1.jar",
+      "required": false,
+      "sha256": "6180cd7da7279fe4518120ae15c48407cceb7e799c85c2b647ff79eb3464f2f9"
+    },
+    {
+      "name": "ninjinentities-Unofficial-1.4.4.1.jar",
+      "path": "mods/ninjinentities-Unofficial-1.4.4.1.jar",
+      "required": false,
+      "sha256": "ad85542b54eec28e16473c9d3a7db95c1dd07f1ab78e15d3c6b8b54d07acd78c"
+    },
+    {
+      "name": "ninjinkb-1.2.4.1.jar",
+      "path": "mods/ninjinkb-1.2.4.1.jar",
+      "required": false,
+      "sha256": "fa14d84828858c1d47401ec42a4ffd54ef6d168a986a0e08a63385c483aae4f3"
+    },
+    {
+      "name": "npcdbc-1.1.3.jar",
+      "path": "mods/npcdbc-1.1.3.jar",
+      "required": false,
+      "sha256": "0a495fc1a63694d172fc9ccfb9db830bb435709940d9ae12d67beb23dd50098e"
+    },
+    {
+      "name": "OptiFine_1.7.10_HD_U_E7.jar",
+      "path": "mods/OptiFine_1.7.10_HD_U_E7.jar",
+      "required": false,
+      "sha256": "8bcd9d83de001a0591f498105f369f070c47d2c9192774d5a5b69f646e44fab4"
+    },
+    {
+      "name": "tlskincape1.7.10-1.4.jar",
+      "path": "mods/tlskincape1.7.10-1.4.jar",
+      "required": false,
+      "sha256": "8b7ce2b69928d58b532b691bc6634893912bb979f0a30b6ebae542359a3da75f"
+    },
+    {
+      "name": "Waila-1.5.10_1.7.10.jar",
+      "path": "mods/Waila-1.5.10_1.7.10.jar",
+      "required": false,
+      "sha256": "44423d7c43bde9274e1dbc1b00d6bd14ec7cb2572326eeefa9c6dd6fab47930b"
     }
   ]
 }
-
